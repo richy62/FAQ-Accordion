@@ -22,7 +22,7 @@ body {
 .first-half-sec {
     background-color: var(--Dark-purple);
     height: 40vh;
-    background-image: url("./assets/images/background-pattern-desktop.svg");
+    background-image: url("../images/background-pattern-desktop.svg");
     background-position: center;
     background-repeat: no-repeat;
     object-fit: fill;
